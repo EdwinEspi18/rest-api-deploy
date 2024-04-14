@@ -1,0 +1,22 @@
+{
+  "name": "curso-node-midu-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Edwin Alexander Espinal Taveras",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.19.2",
+    "standard": "17.1.0",
+    "zod": "3.22.4"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
